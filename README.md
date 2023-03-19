@@ -1,5 +1,7 @@
 - 👋 Olá, eu sou Jackiany
 - 📖 Estudando Java
+- 📖 Computação em Nuvem na AWS
+
 
 <div align="center">
   <a href="https://github.com/Jackiany">
