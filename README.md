@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Jackiany
+- 👋 Olá, eu sou Jackiany Silva 
 - 📖 Estudando Java
 - 📖 Computação em Nuvem na AWS
 
