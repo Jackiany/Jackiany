@@ -18,8 +18,8 @@
   
   ##
  
+
 <div> 
-  
 <a href="https://www.figma.com/community/file/1153027567006288895" target="_blank"> <img align="center" alt="Jackiany-Java" height="70" width="70" src="https://logospng.org/download/figma/figma-256.png">
 <a href="https://instagram.com/jackianysilva?igshid=YTQwZjQ0NmI0OA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
