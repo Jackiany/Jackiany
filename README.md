@@ -4,12 +4,7 @@
 - 📖 Computação em Nuvem na AWS
 
 
-<div align="center">
-  <a href="https://github.com/Jackiany">
-    
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jackiany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackiany&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jackiany-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
